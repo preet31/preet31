@@ -3,11 +3,12 @@
 <!--
 **preet31/preet31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a Fullstack Web Developer from India passionate about building mordern web applications and learning new technologies. I currently work with ReactJS, ES6 and NodeJS and I love contributing my efforts to open source communities.
+I am a Fullstack Web Developer from India passionate about building mordern web applications and learning new technologies. I love contributing my efforts to open source communities.
 
 #### Languages I work with:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
