@@ -3,7 +3,7 @@
 <!--
 **preet31/preet31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a Fullstack Web Developer from India passionate about building mordern web applications and learning new technologies. I love contributing my efforts to open source communities.
+I am a Fullstack Web Developer from India, passionate about building mordern web applications and learning new technologies. I love contributing my efforts to open source communities.
 
 #### Languages I work with:
 
@@ -18,15 +18,15 @@ I am a Fullstack Web Developer from India passionate about building mordern web 
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=preet31)](https://github.com/preet31)
 
 
-- 🔭 I’m currently working on ES6, React and Python
+- 🔭 I’m currently working on FullStack
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Shell Scripting
 - 🤔 I’m looking for help with Python
 - 😄 Pronouns: preet31
-- 📫 How to reach me: <a href="mailto:multimagic2000@yahoo.co.in?subject=Hi, I want to discuss about an project">mail me</a>
 
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 📫 You can connect with me on: [GitHub](http://github.com/preet31)
 - ⚡ Fun fact: ...
 -->
