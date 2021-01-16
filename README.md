@@ -3,7 +3,7 @@
 <!--
 **preet31/preet31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a Fullstack Web Developer from India, passionate about building mordern web applications and learning new technologies. I love contributing my efforts to open source communities.
+I am a Software Developer from India, passionate about building mordern web applications and learning new technologies. I love contributing my efforts to open source communities.
 
 #### Languages I work with:
 
