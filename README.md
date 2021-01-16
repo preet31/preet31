@@ -18,8 +18,8 @@ I am a Fullstack Web Developer from India, passionate about building mordern web
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=preet31)](https://github.com/preet31)
 
 
-- 🔭 I’m currently working on FullStack
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on FullStack, ES6
+- 🌱 I’m currently learning AI & Machine Learning
 - 👯 I’m looking to collaborate on Shell Scripting
 - 🤔 I’m looking for help with Python
 - 😄 Pronouns: preet31
