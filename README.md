@@ -3,7 +3,7 @@
 <!--
 **preet31/preet31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a Software Developer, freelancer from India, passionate about building modern web applications and learning new technologies. I love contributing my efforts to open source communities, besides software development I am an electronics and embedded geek.
+I am a Software Developer, freelancer from India, passionate about building modern web applications and learning new technologies. I love contributing my efforts to open source communities, besides software development I am also an electronics and embedded geek.
 
 #### Languages I work with:
 
