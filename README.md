@@ -4,7 +4,7 @@
 -->
 <h3>I am a Software Developer, freelancer from India, passionate about building modern web applications and learning new technologies. I love contributing my efforts to open source communities.</h3>
 
-<h4>Frameworks & Languages I work with:</h4>
+<h2>Frameworks & Languages I work with:</h2>
 
 <code><a href="http://github.com/preet31"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
 <code><a href="http://github.com/preet31"><img height="40" src="https://avatars0.githubusercontent.com/u/139426?s=200&v=4"></a></code>
