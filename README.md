@@ -21,7 +21,7 @@
 <h3>- 🤔 I’m looking for help with Python</h3>
 <h3>- 😄 Pronouns: preet31</h3>
 <br/>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![Profile views](https://gpvc.arturio.dev/[preet31])
 <br/><br/>
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=preet31)](https://github.com/preet31)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preet31&theme=tokyonight)](https://git.io/streak-stats)<br/><br/>
