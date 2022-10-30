@@ -3,7 +3,7 @@
 **preet31/preet31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h3>I am a Software Developer, freelancer from India, passionate about building modern web applications and learning new technologies. I love contributing my efforts to open source communities.</h3>
-
+![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 <h2>Frameworks & Languages I work with:</h2>
 
 <code><a href="http://github.com/preet31"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
@@ -21,7 +21,7 @@
 <h3>- 🤔 I’m looking for help with Python</h3>
 <h3>- 😄 Pronouns: preet31</h3>
 <br/>
-![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
+
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=preet31)](https://github.com/preet31)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preet31&theme=tokyonight)](https://git.io/streak-stats)<br/><br/>
 [![Pritam's github activity graph](https://activity-graph.herokuapp.com/graph?username=preet31&theme=github)](https://github.com/preet31/github-readme-activity-graph)
