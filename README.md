@@ -21,7 +21,31 @@
 <h3>- 🤔 I’m looking for help with Python</h3>
 <h3>- 😄 Pronouns: preet31</h3>
 <br/>
-![Profile views](https://gpvc.arturio.dev/[preet31])
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+        }
+        .tag {
+          background-color: #E3FFFF;
+          border-radius: 0.25em;
+          color: #0ca4a5;
+          border: 1px solid #0ca4a5;
+          display: inline-block;
+          font-size: 0.75em;
+          line-height: 2em;
+          margin: 0.125em;
+          padding: 0 0.5em;
+          text-decoration: none;
+          font-family: sans-serif;
+        }
+      </style>
 <br/><br/>
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=preet31)](https://github.com/preet31)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preet31&theme=tokyonight)](https://git.io/streak-stats)<br/><br/>
