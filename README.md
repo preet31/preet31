@@ -23,7 +23,7 @@
 <h3>- 😄 Pronouns: preet31</h3>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
+![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)<br/>
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=preet31)](https://github.com/preet31)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preet31&theme=tokyonight)](https://git.io/streak-stats)<br/><br/>
 [![Pritam's github activity graph](https://activity-graph.herokuapp.com/graph?username=preet31&theme=github)](https://github.com/preet31/github-readme-activity-graph)
