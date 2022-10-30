@@ -23,7 +23,6 @@
 <h3>- 😄 Pronouns: preet31</h3>
 <br/>
 
-# Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
 [![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=preet31)](https://github.com/preet31)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preet31&theme=tokyonight)](https://git.io/streak-stats)<br/><br/>
