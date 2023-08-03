@@ -16,6 +16,7 @@
 <code><a href="http://github.com/preet31"><img height="40" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"></a></code>
 <code><a href="http://github.com/preet31"><img height="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></a></code>
 <code><a href="http://github.com/preet31"><img height="40" src="https://cdn.svgporn.com/logos/adobe-xd.svg"></a></code>
+<code><a href="http://github.com/preet31"><img height="40" src="https://cdn.svgporn.com/logos/figma.svg"></a></code>
 <br/>
 <br/>
 <h3>- 🔭 I’m currently working on FullStack, ES6 & NEXT</h3>
